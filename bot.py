@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-
-# Telegram: https://t.me/Linux_termux_ch
-# Dev: Host1let
+# Dev:???
 token = "8813237748:AAFCzliA30Dzyf-bfB4dnkwdXVZk5sIJA70"
 
 import os
@@ -14,7 +12,7 @@ fua = FakeUserAgent()
 bot = TeleBot(token)
 print("started")
 
-print("making by @SCP_043")
+print("making by @ghost_of_notover")
 
 def createString(string: str) -> str:
     return string.lower().translate(string.maketrans("qwertyuiopasdfghjklzxcvbnm-0123456789", "ǫᴡᴇʀᴛʏᴜɪᴏᴘᴀsᴅғɢʜᴊᴋʟᴢxᴄᴠʙɴᴍ-0123456789"))
