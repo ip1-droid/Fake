@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Dev:???
-token = "8813237748:AAFCzliA30Dzyf-bfB4dnkwdXVZk5sIJA70"
+token = "8813237748:AAEdAUZ4OOisZ0glIPsl_t0h9F9_pw3zCPw"
 
 import os
 from random import randint
